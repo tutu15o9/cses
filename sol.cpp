@@ -2,7 +2,7 @@
 using namespace std;
 
 #define deb(x) cout << #x << "=" << x << endl
-#define long long ll
+#define ll long long
 void solve()
 {
 }
