@@ -16,7 +16,6 @@ int main()
 
 	while (t--)
 	{
-        cout<<t<<endl;
 		solve();
 	}
 	return 0;
