@@ -6,3 +6,5 @@
 | All test cases passed      | :ok_hand: `:ok_hand:`                              |
 | Improve code/structure     | :art: `:art:` (new) or :arrow_up: `:arrow_up:`(old)|
 | Bugfix                     | :bug: `:bug:`                                      |
+| TLE Solution               | :hourglass: `:hourglass:`                          |
+| No solution for a Language | :no_entry_sign: `:no_entry_sign:`                  |
