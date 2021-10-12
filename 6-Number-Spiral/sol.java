@@ -9,6 +9,8 @@ class sol{
     //         return;
     //     }
     // };
+    static InputStreamReader inputStreamReader = new InputStreamReader(System.in);
+    static BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
     public static void  solve() throws IOException{
       
 
