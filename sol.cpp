@@ -3,8 +3,7 @@ using namespace std;
 
 #define deb(x) cout << #x << "=" << x << endl
 #define ll long long
-void solve()
-{
+void solve(){
 }
 
 

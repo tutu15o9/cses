@@ -9,14 +9,15 @@ class sol{
     //         return;
     //     }
     // };
-    public static void  solve(){
+    static InputStreamReader inputStreamReader = new InputStreamReader(System.in);
+    static BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
+    public static void  solve() throws java.lang.Exception{
 
     }
-    public static void main (String[] args) throws java.lang.Exception
-	{
-        Scanner sc=new Scanner(System.in);
+    public static void main (String[] args) throws java.lang.Exception{
+        
 		int t=1;
-        t = sc.nextInt();
+        t = Integer.parseInt(bufferedReader.readLine());
         while(t>0){
             solve();
             t--;
